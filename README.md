@@ -20,3 +20,4 @@ If you would like to suggest any features join the JServices discord or make an 
 <a target="_blank" href="https://glitch.com/edit/#!/import/git?url=https://github.com/JxrdanDev/Mercury.js"><img alt="Remix on Glitch" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg"></a>
 <a target="_blank" href="https://app.netlify.com/start/deploy?repository=https://github.com/JxrdanDev/Mercury.js"><img alt="Deploy to Netlify" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg"></a>
 ## enjoy!
+## - Credit to Nebelung for Nightmare Windows!
